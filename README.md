@@ -1,8 +1,8 @@
-# HR Analytics Power BI Dashboard
+# IBM HR Analytics Dashboard
 
 ## 📊 Project Overview
 
-This project presents an interactive **HR Analytics Dashboard built using Microsoft Power BI** to analyze employee data and provide insights into workforce demographics, employee distribution, attrition, and other key HR metrics.
+This project presents an interactive **HR Analytics Dashboard** to analyze employee data and provide insights into workforce demographics, employee distribution, attrition, and other key HR metrics.
 
 The dashboard transforms raw HR data into interactive visualizations and KPIs that can help HR teams understand workforce patterns and identify areas requiring attention.
 
